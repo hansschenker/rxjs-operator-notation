@@ -1,0 +1,16 @@
+{
+  "name": "rxjs-operator-notation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "RxJS 7 operator behavior notation with worked traces and executable validation examples",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "rxjs": "7.8.2"
+  }
+}
